@@ -12,5 +12,3 @@ Saved
 *.suo
 *.xcodeproj
 *.xcworkspace
-**/intermediate
-**/saved
